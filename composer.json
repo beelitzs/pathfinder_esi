@@ -1,8 +1,8 @@
 {
-  "name": "exodus4d/pathfinder_esi",
+  "name": "beelitzs/pathfinder_esi",
   "description": "ESI API library for Pathfinder",
   "type": "library",
-  "homepage": "https://github.com/exodus4d/pathfinder_esi",
+  "homepage": "https://github.com/beelitzs/pathfinder_esi",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
@@ -18,7 +18,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/exodus4d/pathfinder_esi"
+      "url": "https://github.com/beelitzs/pathfinder_esi"
     }
   ],
   "autoload": {
